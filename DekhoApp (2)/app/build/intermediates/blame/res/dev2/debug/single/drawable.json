@@ -1,0 +1,526 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_button_bg_transparent.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_button_bg_transparent.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_whatshot_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_whatshot_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_camera_front.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_camera_front.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/notification_bg_low.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/evp_action_pause.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/easyvideoplayer/0.3.0/res/drawable/evp_action_pause.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_movie_creation_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_movie_creation_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_stillshot.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_stillshot.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_switch_camera_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_switch_camera_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_camera_alt_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_camera_alt_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_camera_rear_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_camera_rear_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/notification_bg.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/profile_icon_tinted.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/profile_icon_tinted.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_camera_rear.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_camera_rear.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_auth_dialog_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/password_button.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable/password_button.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/bollywood1.jpg",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/bollywood1.jpg"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_cloud_upload_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_cloud_upload_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_send_button_icon.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_vector_test.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_square_selected.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_square_selected.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/melody.jpg",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/melody.jpg"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/google_button.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable/google_button.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_flash.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_flash.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/design_fab_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/twitter_button.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable/twitter_button.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/evp_action_play.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/easyvideoplayer/0.3.0/res/drawable/evp_action_play.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_flash_auto.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_flash_auto.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_item_selected.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_item_selected.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_background_gradiant_1.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_background_gradiant_1.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/idp_button_background_facebook.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/res/drawable/idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/heart_empty.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/heart_empty.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/facebook_button.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable/facebook_button.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_video_library_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_video_library_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_stop.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_stop.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_fiber_manual_record_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_fiber_manual_record_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/or_line.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable/or_line.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_btn_selector.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selector.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_button_icon.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/bollywood.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/bollywood.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/notification_icon_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/heart.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/heart.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_button_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_videocam_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_videocam_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_person_outline_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_person_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_done_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_done_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_circle_selected.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_circle_selected.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_capture.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_capture.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/geometry.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/geometry.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/hollywood1.jpg",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/hollywood1.jpg"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_play.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_play.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_fiber_manual_record_red_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_fiber_manual_record_red_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_camera_front_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_camera_front_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/heart_full.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/heart_full.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_person_add_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_person_add_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_pause.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_pause.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/evp_action_restart.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/easyvideoplayer/0.3.0/res/drawable/evp_action_restart.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/mcam_action_flash_off.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/res/drawable/mcam_action_flash_off.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_auth_dialog_cancel_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/rounded_button.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/res/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_selector_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_auth_dialog_header_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_chat_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_chat_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_btn_selected.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selected.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_stop_white_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_stop_white_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_selector.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_selector.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_item_selected_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/circle.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/idp_button_background_email.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/res/drawable/idp_button_background_email.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/idp_button_background_google.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/res/drawable/idp_button_background_google.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/my_subtle_pattern.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/my_subtle_pattern.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/user_icon.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/user_icon.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_send_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_send_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/ic_stop_black_24dp.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/drawable/ic_stop_black_24dp.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable/md_transparent.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable/md_transparent.xml"
+    }
+]

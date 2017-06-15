@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [com.android.support:design:25.2.0] /home/vikas/.android/build-cache/a91e15421b621cc46475d7b6fdf95464fa785310/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vikas/.android/build-cache/21c46fd3eb9c9d42a31fefc566621c1fe4b85b38/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vikas/.android/build-cache/39745028eb54ede75da4dc6fbcdd23675b303696/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/vikas/.android/build-cache/233157755194a0e36bcf4bdfa56877af894ab8f2/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/vikas/.android/build-cache/0af724856e52096d143ea7058319d2d28c2ddea4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vikas/.android/build-cache/3ae3c0921ef4b1c714cce5e8f1c3e063d93d4c5b/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /home/vikas/.android/build-cache/e3d95399940ebfabdaf6c334e2ec37f6c0a66d18/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-core:9.4.0] /home/vikas/.android/build-cache/02d2ca12bac1fe0701ab69ce77b94f5774295a4d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/vikas/.android/build-cache/ff9403cdcec2c2a3185d4e4a8a0281dc4acfb34b/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/vikas/.android/build-cache/36d1502722fd86f64eceb3cda41fbb21909893ed/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/vikas/.android/build-cache/ff6e1c5d73fc3e444f0a14aa4790724cd9a3fdee/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vikas/.android/build-cache/a77a858de32bb4ee8d8f6c0471a71aa92bf2e25f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vikas/.android/build-cache/1a192eef5452a8868c90bc32b981428bfd3bca3b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vikas/.android/build-cache/1e65525fb0a772e872e99345501eda0398105332/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vikas/.android/build-cache/779f4a707fb262a5d0023c8c673f0edf8f8f2a05/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/vikas/.android/build-cache/f3c11357b1be885ac704ca8fe321dd428ca754f3/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:13:9-52
+activity#com.example.rajrajas.bemoapp.Activity.MainActivity
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:14:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.rajrajas.bemoapp.Activity.MovieDetailsActivity
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:21:9-23:54
+	android:theme
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:22:13-58
+activity#com.example.rajrajas.bemoapp.Activity.WebviewActivity
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:24:9-26:54
+	android:theme
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:25:13-53
+activity#com.example.rajrajas.bemoapp.Activity.ChatActivity
+ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:27:9-29:54
+	android:theme
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml:28:13-50
+uses-sdk
+INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] /home/vikas/.android/build-cache/a91e15421b621cc46475d7b6fdf95464fa785310/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/vikas/.android/build-cache/21c46fd3eb9c9d42a31fefc566621c1fe4b85b38/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/vikas/.android/build-cache/39745028eb54ede75da4dc6fbcdd23675b303696/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/vikas/.android/build-cache/233157755194a0e36bcf4bdfa56877af894ab8f2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.2.0] /home/vikas/.android/build-cache/0af724856e52096d143ea7058319d2d28c2ddea4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/vikas/.android/build-cache/c4078e33c8947667886333a0f6649af6e08d4163/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vikas/.android/build-cache/3ae3c0921ef4b1c714cce5e8f1c3e063d93d4c5b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:palette-v7:25.2.0] /home/vikas/.android/build-cache/e3d95399940ebfabdaf6c334e2ec37f6c0a66d18/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:9.4.0] /home/vikas/.android/build-cache/64e63b581b8ceebacd5c6e46afa50c75a1d72ad8/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.4.0] /home/vikas/.android/build-cache/e9a8dd4dde97b651a07a2558f7f7519ddf4b79f7/output/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.4.0] /home/vikas/.android/build-cache/02d2ca12bac1fe0701ab69ce77b94f5774295a4d/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/vikas/.android/build-cache/ff9403cdcec2c2a3185d4e4a8a0281dc4acfb34b/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/vikas/.android/build-cache/36d1502722fd86f64eceb3cda41fbb21909893ed/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.databinding:adapters:1.3.1] /home/vikas/.android/build-cache/534a86a304de18512a5cdefdb745a12b1e1b9c82/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/vikas/.android/build-cache/2b1c094d8535d06fabbcda4519caf84d080a7bf5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.2.0] /home/vikas/.android/build-cache/ff6e1c5d73fc3e444f0a14aa4790724cd9a3fdee/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/vikas/.android/build-cache/a77a858de32bb4ee8d8f6c0471a71aa92bf2e25f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/vikas/.android/build-cache/1a192eef5452a8868c90bc32b981428bfd3bca3b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/vikas/.android/build-cache/1e65525fb0a772e872e99345501eda0398105332/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/vikas/.android/build-cache/779f4a707fb262a5d0023c8c673f0edf8f8f2a05/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/vikas/.android/build-cache/f3c11357b1be885ac704ca8fe321dd428ca754f3/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/vikas/.android/build-cache/a91e15421b621cc46475d7b6fdf95464fa785310/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] /home/vikas/.android/build-cache/a2770b1caea02246742217c39942de39c010ebea/output/AndroidManifest.xml:20:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/vikas/.android/build-cache/7fbab7273e1ce9c174228180075dfb3ad0e444a6/output/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] /home/vikas/.android/build-cache/6380e39c0b8c93486ebde64a13173090359ad753/output/AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] /home/vikas/.android/build-cache/fae3cfa830e1b4054c8ae80ecb588687efe4a719/output/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] /home/vikas/.android/build-cache/137bee02645c9911e91f2e75dbcdc08c54bd9686/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vikas/.android/build-cache/36d1502722fd86f64eceb3cda41fbb21909893ed/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vikas/.android/build-cache/36d1502722fd86f64eceb3cda41fbb21909893ed/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] /home/vikas/.android/build-cache/36d1502722fd86f64eceb3cda41fbb21909893ed/output/AndroidManifest.xml:22:13-58

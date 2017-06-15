@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_recently_wached.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_recently_wached.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_playlist.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_action_playlist.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_share_pressed.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_action_share_pressed.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_share.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_heart.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_action_heart.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_search.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-xxxhdpi/ic_search.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/layout-v14/md_stub_progress.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout-v14/md_stub_progress.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

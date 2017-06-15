@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="39523120369846"
+    token="-2192905639522857602"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f8188f9fa8bd7dc91f1edc27da0a5c7ba48159c2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_877c85c85afc28829969e6d8d1b9a3c5f112f8d0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_92121215df531a8f4fcae7b9b543e2a76fc24c14/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_c8ce864242d3b99f7180f2013196a2ddf40afb15/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_665db6119b057c937cf74d82c10a9b57a8c997b9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_5d7e238de6bd5c79b3dea934eb1a4b7e1a85a746/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_e099f6ca0cb83261d6648accb290970d5ae7e2ab/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_b763748b54abd14df5a8a0d0850069cf2cdc4366/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_805229a637a49d31c60d6138836568f36661a6fc/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ed03fd11f526352b444282f6df4cc22b9e3cc16/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_57ff5b430702c480662ced57983bd4c1eaf5325f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_2e3911a0d2f8938532b79f642976a9c04f9098b3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_79191457dc61255e560f201a401ab849aa101e9f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_7e5a391e0dcbc9fa70fcba23fb05f8d42ed52f27/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_f69c11e59d42db05883918120396e1843005047d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_019d484aad9552782da19c2a37f0684198575109/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1473aed5e40f6ec93028c5ded2929fd4e7f41184/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_e906888e65b0c63da222f193cd432f288a4fd51c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_6179c29cf2010c106499b01ec3faec3ce64e1337/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_80a169f0feade56577aaf1facd31e1a18d7b4a0b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_7968c966d9be33431a01847065025c0808dcab04/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e437e9b6568384fc5077df4a2648819d11465279/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="37130707718010"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="39523120369846"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f8188f9fa8bd7dc91f1edc27da0a5c7ba48159c2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_877c85c85afc28829969e6d8d1b9a3c5f112f8d0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_92121215df531a8f4fcae7b9b543e2a76fc24c14/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_c8ce864242d3b99f7180f2013196a2ddf40afb15/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_665db6119b057c937cf74d82c10a9b57a8c997b9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_5d7e238de6bd5c79b3dea934eb1a4b7e1a85a746/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_e099f6ca0cb83261d6648accb290970d5ae7e2ab/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_b763748b54abd14df5a8a0d0850069cf2cdc4366/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_805229a637a49d31c60d6138836568f36661a6fc/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ed03fd11f526352b444282f6df4cc22b9e3cc16/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_57ff5b430702c480662ced57983bd4c1eaf5325f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_2e3911a0d2f8938532b79f642976a9c04f9098b3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_79191457dc61255e560f201a401ab849aa101e9f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_7e5a391e0dcbc9fa70fcba23fb05f8d42ed52f27/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_f69c11e59d42db05883918120396e1843005047d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_019d484aad9552782da19c2a37f0684198575109/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1473aed5e40f6ec93028c5ded2929fd4e7f41184/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_e906888e65b0c63da222f193cd432f288a4fd51c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_6179c29cf2010c106499b01ec3faec3ce64e1337/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_80a169f0feade56577aaf1facd31e1a18d7b4a0b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_7968c966d9be33431a01847065025c0808dcab04/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e437e9b6568384fc5077df4a2648819d11465279/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

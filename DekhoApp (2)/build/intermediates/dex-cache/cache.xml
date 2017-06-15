@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.firebaseui-firebase-ui-0.4.3_6ac9b8b01f2bbf33c8310d741918b1c4d9535a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_34de3a8178c8e9e53114307b7cab9f563315bb3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_c2a3e77f40dbbd95b2518110dfb82188f234e36e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/bolts-tasks-1.4.0_220f63b5301cca3b666ddf6c880cd969584e7406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-v4-25.2.0_3065764d4d384f2609b346b7c0b05d8265e5afb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/support-annotations-25.2.0_3a3209f650d7f6b948afbfbea67eb2eeeff284a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/okio-1.8.0_d35585a70b4153db265ff7cf0164a2eea3bd2ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_f315399381e55b119cd0838d3ccbb1d71a0d0967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_69c0ec8c450c78ff22262cd8593fe9ee57c8e670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/firebase-client-jvm-2.3.1_f1c11da3a37961ab118f933286634871ee38c9d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-multidex-1.0.1_ee41a1c36afdd4e101248d7d3c452ba103ed45cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/retrofit-2.1.0_ccc4b79ac7248378f124687d4a18d9d849944540/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.9.1.0_ee46af56ac406b22166e88c9b7dee57080496cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_9f81abed87f93c710d82fd2077dafc28e8afa741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_424403182e6db29d8c8ceeed4b2438511dd6d5df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.1_c7fef37693badbd69cbe68202a8fa27dcb834d5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/incremental-classes/dev2/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecd89260e87048b03547ae8ecbc1121e0b4bee0">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run-bootstrap_afded88084bb7e36fd44334c440ae80ea3bd254e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_2b55289b3c9568fe8966b8a0343f87c864dcfa3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-design-25.2.0_165d15ac532e280461a0de71d8afab903fc58b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.11.0_4c9bce7ad78008e5ccffe4b050da60e44e3a8e83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_edfdb1fceb8a750386281cd82fa32f4c30fbd98c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_a2ea0e1654b1b15704c281e81fc3cbbb26c4fe48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/okhttp-3.3.0_ec6e33750852a4c69c1ee25d34642942c782b228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/glide-3.6.0_9c63b0b67712f3d11d38d3ef048c4a481e6e6d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/firebase-client-android-2.3.1_eb2efa21d954c3121b31749e07af8a12d2e2bcf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_aad2687c751e5e59b12582b1632bb0ef024e1d9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-compat-25.2.0_a1cee89c808d355d6212d0164ea80ed257bf8000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_346e1021ac94bbb653f86f5781eac08b61dfa5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_af1605762e1ebf3542cd2d7752331800cbf5a799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-v13-25.2.0_5369eb1f0a4a5a88aff05e950e9fb072e9d83d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_738ad97c0339041958fbee12e222f1f9f3062fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/butterknife-annotations-8.4.0_b2c923e0b5cb5e15c82d107d5f75f0f8ba737941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_6c4cc1acf4d04453415f38b7bef076666c672d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/bolts-applinks-1.4.0_eef5a14c852be8f2bdd1fa5f855c9581598a81aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.4.3_52b781df5891bc5b40f5ac5a7e6a01db836b939e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.3_c888be497e01ca8f7ddaaae9966cb342e3517621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.3/1499b854ae9f370409792db5af1b552dc7d9682f/jackson-core-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1499b854ae9f370409792db5af1b552dc7d9682f">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-core-2.7.3_5359078b4c52e64e3f3fb24659b9d22bb4202204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/gson-2.8.0_80b297f9828b9574a540aefd945addc88870f015/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-cardview-v7-25.2.0_00c3f3dd8167e5935e2ea7afa35b03320278e0dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_af3bf7b23bd6345511e200dce8d7c0b3f1015a50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/tubesock-0.0.11_4c4b0ecd20c95d331925014455dbe0f096beecae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/adapter-rxjava-2.1.0_897b021f8f4a9b668e475315ed95d3db076b48b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/rxjava-1.1.6_786d85b21d9bd4c613a1d3a32d14761165efdd8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/percent/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-percent-25.2.0_fda73f6e8bad88a72e8da935bb28dc40a70c6ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.7.0/19f42c154ffc689f40a77613bc32caeb17d744e3/jackson-annotations-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-annotations-2.7.0_bed7439209a42d948334a8bfefc4b5990413a608/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_da960ec1dc2e0c2a0ed3e6d38fb0357084554a49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.7.3/f12e6cd05cbaecd74d16e685d45b627732939e42/jackson-databind-2.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f12e6cd05cbaecd74d16e685d45b627732939e42">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/jackson-databind-2.7.3_8f135cc549136035f2c5671935e669ba260b5ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/easyvideoplayer/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7c9ef64fc4b3c21a9b584017a93d7fe739ae711a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.afollestad-easyvideoplayer-0.3.0_e820b9bf3181ba7ace5797d44cad094ab132a79b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_4e8c3ae7e57318a1f69bb05c190a5c4950f7e1af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.3.0_2268be7b87b2af7c9ce4ad040c94154f87888bbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.1_7a28283f57de648deffe24e77656413a08e5d2af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_85c2aadd1133279011081c0ab6fb093a529cc8ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_f1e298538d2059b69fc5c6f75edfd618a7c98509/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/incremental-runtime-classes/dev2/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99c31ecbc948d825a5ba77c363abf8a33ce8f385">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run_7bd66a0ebc49890ff9b92d86807ee3cf0bda7d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_73d3a8aa76f263b1836d38ceb7ed98be2a68524c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_7ccd05c083bcf1ede296db2cc52a3ff6d9db7f7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-customtabs-23.2.1_9e35e70ebcdac7c6f3420d77c7b875f1d772f871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/constraint-layout-solver-1.0.2_83a8f69e8088777a2c2181b30a46238037eef833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_3d52deeab82eaa3a59839cb29146d3e98b357d6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_a69ad3ac4babb36a85874bb544a8cd6781c814b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_c6f35e973304ae50add027bd8d1a3da6929894d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_00414bc407a1f52ceb83c572dd900334778640bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-transition-25.2.0_e517f249f935dd91ae98527f7d3b0d546347f762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad/material-camera/0.4.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="175f726550290c1b2d325df9d5aa79ef96ed0498">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.afollestad-material-camera-0.4.4_1f922a111d62e96ff041f0999daf88904fd049ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.1_40d7d0116bcbbde22081c0ad9695c290589ba8cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_3d55bcf89a4f2e6360c89eed0b0dc6d13c5324c2/classes.dex" />
+    </item>
+
+</items>

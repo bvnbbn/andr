@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/insignia.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/insignia.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/sent.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/sent.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/sentmail.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/sentmail.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/play.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/play.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/imdb.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/imdb.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/mipmap-hdpi/favorite.png",
+        "source": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/src/main/res/mipmap-hdpi/favorite.png"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    }
+]

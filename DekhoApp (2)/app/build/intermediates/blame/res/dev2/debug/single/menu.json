@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/menu/menu_feed.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/menu/menu_feed.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/menu/nav_drawer.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/menu/nav_drawer.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/menu/menu_main.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/src/main/res/menu/menu_main.xml"
+    }
+]

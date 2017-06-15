@@ -1,0 +1,20 @@
+Account Summary-current details and current balance of the users account will be details , it scans your smartphpne and dig out neccesary data (messages) to build neccesary details to present , 
+ 
+Category Expenses-it categorizes your expenses and projects it in a graphical manner , 
+
+Add Transaction-in this feature user can add any transaction manually by adding date , amount , category of transaction
+
+Add Goal-in this option , user can add an amount which user have to save for anything to buy in future like car , bike etc
+
+Tax Calculator-it will help user to help calculate the amount of tax user has to pay according to his income (depending on age and salary)
+
+Save Money-different type of fix deposit will be displayed i which investment and interest rate eill be displayed to the user
+
+Reminder-any due bill , emis , cann be added and reminder can be added for the following
+
+Set Budget-set a fixed amount for  particular type like particular type of budget like groceries , transport etc
+
+Loan-loan prediction / loan estimation
+
+
+Expected outcome at the end of 7th Sem-:: User will be able to manage his finances with ease , clarity and on fingertips

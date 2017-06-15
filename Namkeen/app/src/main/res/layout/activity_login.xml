@@ -1,0 +1,119 @@
+<LinearLayout
+        android:id="@+id/linear_layout_login_activity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp"
+        android:background="@drawable/loginscreen"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="@dimen/logo_w_h"
+        android:layout_height="@dimen/logo_w_h"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="30dp"
+        android:src="@drawable/ic_shopping_list" />
+
+
+
+
+
+            <EditText
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:hint="@string/hint_enter_email"
+                android:imeOptions="flagNoExtractUi"
+                android:inputType="textEmailAddress"
+                android:nextFocusDown="@+id/edit_text_password"
+                android:padding="@dimen/edit_text_padding"
+                android:textColor="@color/black"
+                android:textColorHint="@color/dark_grey"
+
+                android:textSize="@dimen/login_buttons_text_size" />
+
+
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:hint="@string/hint_enter_password"
+                android:imeOptions="actionDone|flagNoExtractUi"
+                android:inputType="textPassword"
+                android:padding="@dimen/edit_text_padding"
+                android:textColor="@color/black"
+                android:textColorHint="@color/dark_grey"
+                android:textSize="@dimen/login_buttons_text_size" />
+
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/input_field_height"
+        android:background="@color/primary"
+        android:onClick="onCreateAccountPressed"
+        android:text="@string/btn_login"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/login_buttons_text_size" />
+
+    <Button
+            android:id="@+id/btn_reset_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Forgot Your Password"
+            android:textColor="@android:color/white"
+            android:background="@color/primary"
+            android:textSize="@dimen/login_buttons_text_size"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_dont_have_account"
+                style="@style/LoginCreateText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/text_dont_have_account" />
+
+            <Button
+                android:id="@+id/btn_signup"
+                style="@style/LoginCreateTextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/primary"
+                android:text="@string/button_create_account" />
+        </LinearLayout>
+
+    <com.google.android.gms.common.SignInButton
+        style="@style/LoginCreateTextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:id="@+id/googleBtn">
+
+    </com.google.android.gms.common.SignInButton>
+
+
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+    </LinearLayout>
+

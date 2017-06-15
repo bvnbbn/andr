@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_heart.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_action_heart.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_share_pressed.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_action_share_pressed.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_share_disabled.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_action_share_disabled.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_playlist.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_action_playlist.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_search.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_recently_wached.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_recently_wached.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_share.png",
+        "source": "/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    }
+]

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_805229a637a49d31c60d6138836568f36661a6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_80a169f0feade56577aaf1facd31e1a18d7b4a0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/okio-1.6.0_1473aed5e40f6ec93028c5ded2929fd4e7f41184.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_7968c966d9be33431a01847065025c0808dcab04/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_7e5a391e0dcbc9fa70fcba23fb05f8d42ed52f27.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_6179c29cf2010c106499b01ec3faec3ce64e1337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_665db6119b057c937cf74d82c10a9b57a8c997b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2811138f759e61223d7f5ca227c8ff66a8ef613e">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ed03fd11f526352b444282f6df4cc22b9e3cc16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_7e5a391e0dcbc9fa70fcba23fb05f8d42ed52f27/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_805229a637a49d31c60d6138836568f36661a6fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_6179c29cf2010c106499b01ec3faec3ce64e1337.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_2e3911a0d2f8938532b79f642976a9c04f9098b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_5d7e238de6bd5c79b3dea934eb1a4b7e1a85a746/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_b763748b54abd14df5a8a0d0850069cf2cdc4366.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_e099f6ca0cb83261d6648accb290970d5ae7e2ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_b763748b54abd14df5a8a0d0850069cf2cdc4366/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_5d7e238de6bd5c79b3dea934eb1a4b7e1a85a746.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/gson-2.6.2_e099f6ca0cb83261d6648accb290970d5ae7e2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_019d484aad9552782da19c2a37f0684198575109.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_57ff5b430702c480662ced57983bd4c1eaf5325f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_1473aed5e40f6ec93028c5ded2929fd4e7f41184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_80a169f0feade56577aaf1facd31e1a18d7b4a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_57ff5b430702c480662ced57983bd4c1eaf5325f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_92121215df531a8f4fcae7b9b543e2a76fc24c14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_92121215df531a8f4fcae7b9b543e2a76fc24c14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_e437e9b6568384fc5077df4a2648819d11465279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_019d484aad9552782da19c2a37f0684198575109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_877c85c85afc28829969e6d8d1b9a3c5f112f8d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/glide-3.7.0_e437e9b6568384fc5077df4a2648819d11465279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_f69c11e59d42db05883918120396e1843005047d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_f69c11e59d42db05883918120396e1843005047d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_79191457dc61255e560f201a401ab849aa101e9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_c8ce864242d3b99f7180f2013196a2ddf40afb15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_79191457dc61255e560f201a401ab849aa101e9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2e3911a0d2f8938532b79f642976a9c04f9098b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ef7f4da5ef46c78ae1f7cf3b396b642133a697a8">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f8188f9fa8bd7dc91f1edc27da0a5c7ba48159c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_665db6119b057c937cf74d82c10a9b57a8c997b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_c8ce864242d3b99f7180f2013196a2ddf40afb15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_877c85c85afc28829969e6d8d1b9a3c5f112f8d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_e906888e65b0c63da222f193cd432f288a4fd51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_7968c966d9be33431a01847065025c0808dcab04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Movie/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/vikas/Desktop/Movie/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_e906888e65b0c63da222f193cd432f288a4fd51c.jar" />
+    </item>
+
+</items>

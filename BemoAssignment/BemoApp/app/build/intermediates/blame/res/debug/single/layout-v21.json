@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/BemoAssignment/BemoApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vikas/.android/build-cache/ff95f98c368de0f643c0b657b9f2c14e8cf8c60c/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

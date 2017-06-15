@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_3a3209f650d7f6b948afbfbea67eb2eeeff284a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-2.1.3_454cce0cff503fc166085b293977cd7c31f9bb10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-api-services-youtube-v3-rev160-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb8d0f398e95b0d4fba9a7f61a426505b7edc42a">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-services-youtube-v3-rev160-1.21.0_2bf990140a1d79fd5c0551baa29ece47bcbec29f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_91c9fc3aee049a4c449f51ffcfd86c86b444ceb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.github.evgenyneu/js-evaluator-for-android/v1.0.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14f18b889b5fc9a6fb3402bf1e831795c1084536">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.evgenyneu-js-evaluator-for-android-v1.0.7_81283de675ea79a7cc7e6d783a847b459161b532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/color_picker_library-release/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="892f97117346e276046ba5c7a4ccfe81a608a37d">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-color_picker_library-release_ff29a356055e9353dc58b31ebd5005e3a43b162a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_100d004b95f9571225ec66d7df7346527d5bd77b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-api-client-android-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5e52620c21137aacffc399a20cebc85adec006">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-android-1.21.0_72f1cc68ec85abd77f26c0e0c5580d19a54bab5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_6959454eafc4e360bdfe8155e03c3ae29c07f8e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_65853bbd7c856ab65e50ff9323cdf8758cf989d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_fd4e96d73485b9923a4d7c1a9f070d27a6949be3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.2.0_6b86e38c286271e667868e71d8bd905f0d01c8ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-http-client-jackson2-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14786f5d05b04365f0c578d0e810dd555f07f295">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-jackson2-1.21.0_5892854e9b9b8f05cd885ad4ca3b7bc0c4cab94c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_b49bf80db39cf0f3d775655b2ccf24bb18c9f6b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/picasso-2.5.2_4e2b51a8ec48a67928ed5ce0316d6de888d8e3de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.facebook.network.connectionclass/connectionclass/1.0.1/8d5e86c680119bfa1d7e1a365510b56764cb61b0/connectionclass-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d5e86c680119bfa1d7e1a365510b56764cb61b0">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/connectionclass-1.0.1_634436c1358137e0795d8bc58ca09666521536f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_1fe82fc445faff92313132d3d3c41dfaae9a1c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_63dbf43ab9a772a48fe036fbbc4aaa80c1828a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-http-client-android-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bbb3e20e50c801145e37600650c9e1202e44e04">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-android-1.21.0_b85b6836ee9678751818dfe0b85876476d7b53a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_461d494b5f34333cb7ecc504e68a1222fc18aa6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_455ac9094352dfe8c6e0e0ff8931209695eb8ab2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_052b28ffd2831879ecb163ec5429241436c83f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_1ce6f7ecfa2a1ce359fbbdd838d5c95665401d94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_40fc553d91d90834d6cf56188824bf527ab3375d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_8742cc391aecb810175c8834c7d2b1c80582c350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.github.HaarigerHarald/android-youtubeExtractor/master-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a8cbe06e781e764e50a70648a0e45a56f7d0ea5">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.HaarigerHarald-android-youtubeExtractor-master-SNAPSHOT_30e7303bf31e879a265b17b2defbe734cb6118e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_3f4a26d40e8dd11cb10a04a6d98bd1bdefd83272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_5f6ec7a7561d688b13b69fa1e4d5ade6d3d8d0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-api-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bcad36c93d6dab1e21ed47f38993293ce3c89ed">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-api-client-1.21.0_0ffb2f00a06b7dd92bc7396f7d08ade40bf80b89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71628d57f7d5ef640ae2457d5c91c9a747f80044">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1375534cb8cf9a2264a2778e6cb0f089fd953ec2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_87412247f70feba31111173ac057f008df8ae655/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.3.0_012265fe2978b72595b68658214d493f76f9a069/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ba115f5b7462b71bc7e8dbd85f88debdaefd263">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_14ee7666b6c9b03f99e99b9145d78b64181d5f7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_c0a45c0f2babdb996dc6dd672d95eab0f5f8abdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-http-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8586fd6b4a11cd146d611cfe9c2cb43bddd62f4f">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-http-client-1.21.0_1036ddd8dd34dcc7c1a6047e7b90b5956749fd3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/libs/google-oauth-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="481c5c2eb066671ce16088987101f24a14534f3b">
+        <dex dex="/home/vikas/Desktop/Android-YouTube-Background-Player-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-oauth-client-1.21.0_07cf7db455c57cc457c680fea07335c7fdb1ff6a/classes.dex" />
+    </item>
+
+</items>

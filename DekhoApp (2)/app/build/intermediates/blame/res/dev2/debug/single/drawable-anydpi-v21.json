@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/ic_facebook.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-anydpi-v21/ic_facebook.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/ic_twitter.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-anydpi-v21/ic_twitter.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/ic_google.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-anydpi-v21/ic_google.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

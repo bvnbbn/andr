@@ -1,0 +1,7 @@
+#Fri May 05 00:10:52 IST 2017
+base.0=/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run-bootstrap_afded88084bb7e36fd44334c440ae80ea3bd254e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run_7bd66a0ebc49890ff9b92d86807ee3cf0bda7d35/classes.dex
+base.1=/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run_7bd66a0ebc49890ff9b92d86807ee3cf0bda7d35
+file.0=/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/transforms/dex/dev2/debug/folders/1000/10/instant-run-bootstrap_afded88084bb7e36fd44334c440ae80ea3bd254e/classes.dex

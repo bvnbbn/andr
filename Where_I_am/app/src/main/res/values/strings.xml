@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Where_I_am</string>
+    <string name="text_value">Can you spot these things in the image?</string>
+<string name="text_value0">1) Earth, our home. 2) The sun that gives us warmth and life. 3) Two swooping owls 4) One shy monkey. 5)
+Five exploring ants. 6) A hungry caterpillar. 7) A butterfly wing. 8) Two cats waiting. 9) A pair of slippers.
+10) Four red Flowers. 11) A book. 12) A kite.
+Please Move the image to see the full image you can zoom in and zoom out also</string>
+    <string name="text_value1">Answer Key:
+1) Earth, our home. 2) The sun that gives us warmth and life. 3) Two swooping owls 4) One shy monkey. 5)
+Five exploring ants. 6) A hungry caterpillar. 7) A butterfly wing. 8) Two cats waiting. 9) A pair of slippers.
+10) Four red Flowers. 11) A book. 12) A kite.</string>
+</resources>

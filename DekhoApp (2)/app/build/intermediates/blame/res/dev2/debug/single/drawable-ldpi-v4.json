@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-ldpi-v4/md_nav_back.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/res/drawable-ldpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-ldpi-v4/ic_facebook.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-ldpi-v4/ic_facebook.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-ldpi-v4/ic_google.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-ldpi-v4/ic_google.png"
+    },
+    {
+        "merged": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/res/merged/dev2/debug/drawable-ldpi-v4/ic_twitter.png",
+        "source": "/home/vikas/Desktop/DekhoApp (2)/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.3/res/drawable-ldpi-v4/ic_twitter.png"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1012432451123",
+    "firebase_url": "https://bemo-1d8fd.firebaseio.com",
+    "project_id": "bemo-1d8fd",
+    "storage_bucket": "bemo-1d8fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012432451123:android:0fdd78ce4909d746",
+        "android_client_info": {
+          "package_name": "com.example.rajrajas.bemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012432451123-jjnmflgm7cu128gvatr9lpo6ka6vl4pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo04bKqUWqRrVjL84h7ervWd5TSpgJ2zk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

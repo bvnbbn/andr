@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="23106910092749"
+    token="-3218555191867734881"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="103787" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1539" />
+    <task
+        name="verifier"
+        duration="104" />
+
+    <artifact
+        location="/home/vikas/Desktop/DekhoApp (2)/app/build/outputs/apk/app-dev2-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="23106910092749"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/vikas/Desktop/DekhoApp (2)/app/build/outputs/apk/app-dev2-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

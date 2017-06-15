@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_c26411e6d393221c276a8235de344c66b7fa3c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_687ee832986667715f091f7f19cbddbc4cfd974b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_781a1c1b740ca3c453c46fa655334fc5bc56d72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.0_6e896ad2a10fc3ebe458c18a703783edbd37eecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.0_072a066a018396e48f30fbc35717e743e6c68aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.0_f1daa9b24cd1b2014b3854c9e04d6ec82a7c1c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_512b8f0290fa7f9d73cf58eb4816d7e25abf5b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_4c83bd4db7c6f0305e28f90d1ba3971cb81e4c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_19ab1c03e5a68e1893744e2f0d4f3f295c5a254b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_cfde6d9ffa0aafbb92d29e9ad8531af0e6c03774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_9e52ea6f26e4f65417a22b9d0bb72f95dd9ce4a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_61a080ec9990afe2cee333f8029068e86387549b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_2a73a19c91d547b485948ab1dd7b5b175cdbfd4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_059564c95d640a0e994d746565a37568546ab3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_8f9f46b3a6c9e72b0c9ca5c426c3ba89c0d77717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_e3fcd25ff78fae2400c71bea124980e77b50573c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_97dc49a84ada735532484aef2f75a6fb5ddb3a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_a3c312fbf1c4af446d40be6df18a7000a6e5c991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.2_2d74a981c2b5d4d0b62fae1aa33d22b50910333c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_ea5c55869f5882a9f85e7a93befee6c8b09fa6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vikas/Desktop/Where_I_am/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/vikas/Desktop/Where_I_am/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_9cb0c2afa26af24591baf6256f12515454bb8d34.jar" />
+    </item>
+
+</items>

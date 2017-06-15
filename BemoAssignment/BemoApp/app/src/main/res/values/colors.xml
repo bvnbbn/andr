@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#8f96c6</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="grayColor">#d6d1d3</color>
+    <color name="whiteColor">#FFFF</color>
+
+    <color name="whiteColor_bg">#d2ffffff</color>
+
+    <color name="textColor">#151414</color>
+
+    <color name="count_color">#F52F0C</color>
+
+    <color name="graybg">#5c121111</color>
+    <color name="imdb">#e6be2f</color>
+
+
+</resources>

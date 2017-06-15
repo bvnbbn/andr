@@ -1,0 +1,7 @@
+#Wed May 03 01:13:10 IST 2017
+base.0=/home/vikas/Desktop/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8e305be5174a6b21eddf111fb2ce280775dcd33
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vikas/Desktop/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc329a3e551cef23805214935b1f57fbee9329a1/classes.dex
+base.1=/home/vikas/Desktop/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc329a3e551cef23805214935b1f57fbee9329a1
+file.0=/home/vikas/Desktop/Camera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8e305be5174a6b21eddf111fb2ce280775dcd33/classes.dex
